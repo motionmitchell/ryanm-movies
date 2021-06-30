@@ -1,0 +1,37 @@
+{
+  "name": "ryanm",
+  "version": "1.0.0",
+  "description": "Movies",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0",
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.14",
+    "mysql2": "^2.2.5",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.7",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RyanM"
+  },
+  "keywords": [
+    "Movies"
+  ],
+  "author": "Ryan",
+  "license": "ISC"
+}
